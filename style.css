@@ -1,3 +1,9 @@
+nav{
+    text-align: end;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
 img{
     display: block;
     width: 300px;
